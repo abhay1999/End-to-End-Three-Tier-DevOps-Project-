@@ -1,0 +1,3 @@
+[submodule "EKS-Terraform-GitHub-Actions"]
+	path = EKS-Terraform-GitHub-Actions
+	url = https://github.com/AmanPathak-DevOps/EKS-Terraform-GitHub-Actions
